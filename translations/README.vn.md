@@ -13,7 +13,7 @@ Nó khó. Lần đầu tiên bạn làm điều gì đó quả thật khó khăn
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-Nếu bạn không thích làm việc với dòng lệnh, hãy thử hướng dẫn của chúng tôi dựa trên [GitKraken](../gitkraken-tutorial.md).
+Nếu bạn không muốn làm việc với dòng lệnh, hãy thử hướng dẫn của chúng tôi dựa trên [GitKraken](../gitkraken-tutorial.md).
 
 Nếu bạn không có git trên máy tính của bạn, [ cài đặt nó ]( https://help.github.com/articles/set-up-git/ )
 
